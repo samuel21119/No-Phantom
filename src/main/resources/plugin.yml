@@ -1,0 +1,7 @@
+name: NoPhantoms
+version: ${project.version}
+main: io.github.samuel21119.nophantoms.NoPhantoms
+api-version: 1.13
+prefix: NoPhantoms
+authors: [samuel21119]
+description: No Fxxking PHANTOMS
